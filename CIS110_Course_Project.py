@@ -7,7 +7,7 @@ fav_game = input("\nWhat is your favorite game:   ")
 player_name = input("\nWhat is your name:   ")
 phone_brand = input("\nWhat is your favorite phone:   ")
 country_choice = input("\nWhat country would you want to visit:   ")
-hieght_type = input("\nChoose either tall or short:   ")
+height_type = input("\nChoose either tall or short:   ")
 sky_choice = input("\nDo you prefer rainbows or shooting stars:   ")
 
 print("\nHERE WE GO!!!")
@@ -17,3 +17,18 @@ print("In the royal garden of", country_choice, "when out of the blue a storm st
 print("You can see the", fav_color, "lightning all around. The wind is relentless and the rain drops are as large as GEESE EGGS!")
 print("She has to decide where to go and fast!")
 
+print("\nShe stops playing", fav_game, "puts her", phone_brand, "in her purse and runs to the castle of", country_choice, "as fast as she can.")
+print("She makes it to the castle of", country_choice, "and goes to her balcony, she pulls out her", phone_brand, "to take a video.")
+print("Lightning hits her", phone_brand, ". When tyhe dust settles she realizes a very", height_type, "wizard is there!")
+print("They are both shocked and confused literally")
+
+print("\nThe princess screams for the guards. They show up in a flash!")
+print("They surround the", height_type, "wizard. The wizard gets scared and a", fav_color, "flame shoots out of his hand, into his own foot.")
+print("The wizard faints and the guards carry him to the infirmary.")
+
+print("\nThe princess and the", height_type, "wizard are in the infimary. The king and the queen send the castle wizard to check on them both.")
+print("When he arrives he hears them both laughing. He recognizes the young wizards voice.")
+print("It is his nephew", player_name, "from", fav_game, "He goes in and finds out all that happened. he heals them both.")
+print("He tells them to go wait on the balcony, he is going to prepare a spell to take", player_name, "home.")
+print("While", player_name, "and the princesswait they play games and eat snacks. They relax and enjoy the", sky_choice, "filled sky.")
+print("The storm maybe gane, but a freindship is brewing!")
