@@ -31,4 +31,4 @@ print("When he arrives he hears them both laughing. He recognizes the young wiza
 print("It is his nephew", player_name, "from", fav_game, "He goes in and finds out all that happened. he heals them both.")
 print("He tells them to go wait on the balcony, he is going to prepare a spell to take", player_name, "home.")
 print("While", player_name, "and the princesswait they play games and eat snacks. They relax and enjoy the", sky_choice, "filled sky.")
-print("The storm maybe gane, but a freindship is brewing!")
+print("The storm maybe gone, but a freindship is brewing!")
